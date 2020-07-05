@@ -1,0 +1,6 @@
+QClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboardQClipboard *clipboard
+
+QClipboard *clipboard
+
+QClipboard *clipboard
+QClipboard *clipboard

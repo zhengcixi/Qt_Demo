@@ -1,0 +1,15 @@
+menu_file_new = menu_file->addAction("新建(N)");
+menu_file_new->setShortcut(QKeySequence::New);
+menu_file_new_win = menu_file->addAction("新窗口(W)");
+menu_file_open    = menu_file->addAction("打开(O)");
+menu_file_open->setShortcut(QKeySequence::Open);
+menu_file_save    = menu_file->addAction("保存(S)");
+menu_file_save->setShortcut(QKeySequence::Save);
+menu_file_save_as = menu_file->addAction("另存为(S)");
+menu_file_save_as->setShortcut(QKeySequence::SaveAs);
+menu_file->addSeparator();
+menu_file_print = menu_file->addAction("打印(P)");
+menu_file_print->setShortcut(QKeySequence::Print);
+menu_file->addSeparator();
+menu_file_quit  = menu_file->addAction("退出(X)");
+menu_file_quit->setShortcut(QKeySequence::Quit);
